@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi, I'm Shannon! <img src="https://user-images.githubusercontent.com/26881159/218038783-12dbd48f-5424-44b6-8594-8374b8fddbc6.gif" width="35px" />
+  Hi, I'm Shannon! <img src="https://github.com/sstengele/sstengele/assets/26881159/c2c670b8-1937-4315-89ca-5efb0a87cd8b" width="35px" />
 </h1>
 
 <h3 align='center'>Software Engineer II at <a href='https://invoca.com'>Invoca</a></h3>
