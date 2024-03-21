@@ -2,7 +2,7 @@
   Hi, I'm Shannon! <img src="https://github.com/sstengele/sstengele/assets/26881159/c2c670b8-1937-4315-89ca-5efb0a87cd8b" width="35px" />
 </h1>
 
-<h3 align='center'>Software Engineer II at <a href='https://invoca.com'>Invoca</a></h3>
+<h3 align='center'>Senior Software Engineer at <a href='https://invoca.com'>Invoca</a></h3>
 
 <br/>
 
