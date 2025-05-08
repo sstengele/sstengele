@@ -10,7 +10,7 @@
 <p align="center">
   <img align="middle" src="https://github-readme-stats.vercel.app/api?username=sstengele&count_private=true&show_icons=true&theme=outrun&hide=stars,prs,issues,contribs" />
 </p>
--->
+
 
 <a href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=sstengele&label=Profile%20Views&color=11&icon=5&pretty=false" />
@@ -25,5 +25,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
+-->
 
